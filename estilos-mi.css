@@ -1,0 +1,32 @@
+body{
+    background: #99ED87;
+}
+.kk{
+    background: #18ca21;
+    padding: 2px;
+
+}
+.ff{
+    text-align: center;
+    font-family: Limelight;
+    font-weight: 600;
+    font-size: 40px;
+}
+.gg{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+}
+.tt{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 1000;
+    font-size: 35px;
+}
+.parrafo2{
+    text-align: left;
+    font-family:Marcellus SC ;
+    font-weight: 1000;
+    font-size: 30px;
+}

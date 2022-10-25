@@ -1,0 +1,122 @@
+body {
+    background-color: #EAAB74;
+    }
+    h1 {
+    text-align: center;
+    font-family: Cinzel Black;
+    font-weight: 600;
+    font-size: 30px;
+    
+    }
+    .name{
+        text-align: center;
+        font-family: Marcellus SC;
+        font-weight: 600; 
+        font-size: 40px;
+    }
+    
+    .titulo1{
+    background: #FC7E0D;
+    padding: 2px;
+    
+    }
+    .datos{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+    }
+    .parrafo{
+        text-align: left;
+        font-family: Marcellus SC  ;
+        font-weight: 1000;
+        font-size: 35px;
+    }
+    .ll{
+    text-align: left;
+    font-family: Monotype Corsiva ;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #1F2021;
+    }
+    .pp{
+    background: #FC7E0D;
+    padding: 2px;
+    }
+    .hh{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+  
+    }
+    .tre{
+    text-align: left;
+    font-family:Marcellus SC;
+    font-weight: 1000;
+    font-size: 35px;
+    }
+    .ros{
+    text-align: left;
+    font-family: Limelight;
+    font-weight: 2;
+    font-size: 25px;
+    }
+    .oso{
+    text-align: left;
+    font-family:Marcellus SC ;
+    font-weight: 1000;
+    font-size: 35px;
+    }
+    .bar{
+    text-align: left;
+    font-family:Marcellus SC;
+    font-weight: 1000;
+    font-size: 35px;
+    color: #FC7E0D;
+    }
+    .cuadro{
+        padding: 10px;
+        
+    }
+    .dios{
+        padding-top: 30px;
+    }
+    .img{
+        display: flex;
+        justify-content: right;
+        position: absolute;
+        top: 5%;
+        right: 5%;
+        width: 190px;
+        height: 185px; ;
+        border-radius: 85%;
+        transform: skewY(1.5deg) ;
+        overflow: hidden;
+    }
+    .imgm{
+        display: flex;
+        justify-content: right;
+        position:absolute;
+        top: 195%;
+        right: 5%;
+        width: 180px;
+        height: 180px; ;
+        border-radius: 100%;
+        transform: skewY(2deg) ;
+        overflow: hidden;
+
+    }
+    .imgp{
+        display: flex;
+        justify-content: right;
+        position:absolute;
+        top: 317%;
+        right: 5%;
+        width: 185px;
+        height: 180px; ;
+        border-radius: 100%;
+        transform: skewY(2deg) ;
+        overflow: hidden;
+
+    }
